@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="com.atomikos:transactions-hibernate3:3.6.4" type="repository">
+    <properties maven-id="com.atomikos:transactions-hibernate3:3.6.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-hibernate3/3.6.4/transactions-hibernate3-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/atomikos-util/3.6.4/atomikos-util-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-api/3.6.4/transactions-api-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-jdbc-deprecated/3.6.4/transactions-jdbc-deprecated-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-jdbc/3.6.4/transactions-jdbc-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-jms-deprecated/3.6.4/transactions-jms-deprecated-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-jms/3.6.4/transactions-jms-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions-jta/3.6.4/transactions-jta-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/atomikos/transactions/3.6.4/transactions-3.6.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/1.0.1/geronimo-jta_1.0.1B_spec-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate/3.2.5.ga/hibernate-3.2.5.ga.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/2.1.1/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-attrs/1.5.3/asm-attrs-1.5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.6/antlr-2.7.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.1_3/cglib-2.1_3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/1.5.3/asm-1.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
